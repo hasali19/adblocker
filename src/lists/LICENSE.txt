@@ -1,0 +1,11 @@
+Title: EasyList (easylist_adservers.txt, easylist_thirdparty.txt)
+Homepage: https://easylist.to/
+Licence: https://easylist.to/pages/licence.html (Creative Commons Attribution-ShareAlike 3.0 Unported or later)
+
+Title: Peter Lowe's domain blocklist (yoyo_adservers_hosts.txt)
+Homepage: https://pgl.yoyo.org/adservers
+Licence: MCRAE GENERAL PUBLIC LICENSE
+
+Title: Steven Black's host file compilation (stevenblack.txt)
+Homepage: https://github.com/StevenBlack/hosts
+License: MIT License
